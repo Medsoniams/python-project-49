@@ -1,10 +1,11 @@
-from random import randint
+from random import SystemRandom
 
 import prompt
 
 from brain_games.cli import welcome_user
 
 rule_game = """Answer "yes" if the number is even, otherwise answer "no"."""
+secure_random = SystemRandom()
 
 
 def is_even(number: int) -> bool:
@@ -19,7 +20,7 @@ def game(user_name):
     print(rule_game)
     round_game = 0
     while True:
-        random_number = randint(1, 100)
+        random_number = secure_random.randint(1, 100)
         print(f"Question: {random_number}")
         answer_user = prompt.string("Your answer: ")
 
