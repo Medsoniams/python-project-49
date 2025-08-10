@@ -12,3 +12,8 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Medsoniams_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Medsoniams_python-project-49)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Medsoniams_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Medsoniams_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Medsoniams_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Medsoniams_python-project-49)
+
+### Demo of "Brain-even" game
+You can try the game in action below:
+
+[![asciicast](https://asciinema.org/a/PKtBKIUVLknAL36TZpUQBhakQ.svg)](https://asciinema.org/a/PKtBKIUVLknAL36TZpUQBhakQ)
