@@ -29,7 +29,7 @@ def game(user_name):
         if not is_valid_answer(answer_user):
             print(f"'{answer_user}' is wrong answer ;(. Correct answer was "
                   f"'{correct_answer}'.")
-            return "Let's try again!"
+            return f"Let's try again, {user_name}!"
 
         if answer_user == correct_answer:
             print("Correct!")
@@ -37,17 +37,17 @@ def game(user_name):
         else:
             print(f"'{answer_user}' is wrong answer ;(. Correct answer was "
                   f"'{correct_answer}'.")
-            return "Let's try again!"
+            return f"Let's try again, {user_name}!"
 
         if round_game == 3:
-            return f"Congratulations, {user_name}"
+            return f"Congratulations, {user_name}!"
 
 
 def main():
     print("Welcome to the Brain Games!")
     user_name = welcome_user()
     print(f"Hello, {user_name}!")
-    game(user_name)
+    print(game(user_name))
 
 
 if __name__ == "__main__":
