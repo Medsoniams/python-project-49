@@ -15,5 +15,4 @@
 
 ### Demo of "Brain-even" game
 You can try the game in action below:
-
-[![asciicast](https://asciinema.org/a/PKtBKIUVLknAL36TZpUQBhakQ.svg)](https://asciinema.org/a/PKtBKIUVLknAL36TZpUQBhakQ)
+[![asciicast](https://asciinema.org/a/732978.svg)](https://asciinema.org/a/732978)
