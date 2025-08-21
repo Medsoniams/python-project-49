@@ -15,4 +15,10 @@
 
 ### Demo of "Brain-even" game
 You can try the game in action below:
+
 [![asciicast](https://asciinema.org/a/732978.svg)](https://asciinema.org/a/732978)
+
+### Demo of "Brain-calc" game
+You can try the game in action below:
+
+[![asciicast](https://asciinema.org/a/734796.svg)](https://asciinema.org/a/734796)
